@@ -1,1 +1,1 @@
-13d74a7e-2fb8-11e5-861e-6003088e1db6
+fn main() { println!("Hello world") }
